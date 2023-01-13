@@ -54,3 +54,6 @@ WIX шаблон сайта резюме https://ru.wix.com/website/templates/ht
 . https://gist.github.com/KELiON/949731e077656ce036fa6114e7b47d2d#file-sql-md
 
 Штраф = - балл
+
+http://alferovconference.ru/ - конференция 01.02 —  10.09.2023(13.02 - 23.02 -выбрать тему)
+
