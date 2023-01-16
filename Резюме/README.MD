@@ -97,3 +97,6 @@ WIX шаблон сайта резюме https://ru.wix.com/website/templates/ht
 
 http://alferovconference.ru/ - конференция 01.02 —  10.09.2023(13.02 - 23.02 -выбрать тему)
 
+
+![image](https://user-images.githubusercontent.com/97594420/212625226-d61beb2e-72d6-4dde-beec-4ccb99006fc3.png)
+
