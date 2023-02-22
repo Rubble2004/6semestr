@@ -100,3 +100,4 @@ http://alferovconference.ru/ - конференция 01.02 —  10.09.2023(13.0
 
 ![image](https://user-images.githubusercontent.com/97594420/212625226-d61beb2e-72d6-4dde-beec-4ccb99006fc3.png)
 
+![image](https://user-images.githubusercontent.com/97594420/220561504-58160aeb-ecdc-4812-a06e-19177ad9e168.png)
