@@ -229,3 +229,24 @@ fork - дочерний и родительский процесс
 ![image](https://user-images.githubusercontent.com/97594420/217467549-49c14dfa-3b92-4cb9-a0d1-da4016c7e4ea.png)
 Смерть процесса = команда kill
 Если родительский процесс завершился раньше дочернего, то у ребенка будет другой родитель
+
+
+
+
+
+
+#Выполнение задания 2-3 
+![image](https://user-images.githubusercontent.com/97594420/228451764-1cf9ee00-67f2-4a59-92a6-2be42f253fb5.png)
+![image](https://user-images.githubusercontent.com/97594420/228451824-1465b863-d9f9-4ccb-af9d-860894722aab.png)
+![image](https://user-images.githubusercontent.com/97594420/228451886-c516cfef-c353-4694-adf8-11e7297c91d6.png)
+![image](https://user-images.githubusercontent.com/97594420/228451951-4e269f13-f67c-4fb7-88d4-fc1dda5d224f.png)
+![image](https://user-images.githubusercontent.com/97594420/228452227-badfdc29-9290-4c7b-83fd-56198d18fe74.png)
+![image](https://user-images.githubusercontent.com/97594420/228453187-7775792e-df26-412a-a27c-34492a1eb45b.png)
+![image](https://user-images.githubusercontent.com/97594420/228460888-9e796977-6cb3-47a3-83c3-2129c2c2fc0b.png)
+
+
+
+
+
+
+
