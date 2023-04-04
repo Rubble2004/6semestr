@@ -247,6 +247,15 @@ fork - дочерний и родительский процесс
 
 
 
+То, что должно получиться -> ![image](https://user-images.githubusercontent.com/97594420/229714027-601b9cf1-823a-4fe3-901e-26be8caad57e.png)
+
+
+*Ход работы 04.04*
+![image](https://user-images.githubusercontent.com/97594420/229714072-5868b795-15b2-455d-a3ea-12fb8d9141b0.png)
+![image](https://user-images.githubusercontent.com/97594420/229714243-9767ed6a-6b59-4098-bc1b-c4992672edd3.png)
+![image](https://user-images.githubusercontent.com/97594420/229714280-ba182a13-faef-4184-8a9b-4a136ada31ed.png)
+
+
 
 
 
